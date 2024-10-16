@@ -23,3 +23,6 @@ This project demonstrates how to use React Router to create a product list with 
 2. Install dependencies:  
    ```bash
    npm install
+3. Start the development server:
+   npm start
+4. Open the application in your browser at http://localhost:3000/.
